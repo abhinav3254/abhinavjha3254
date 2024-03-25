@@ -1,0 +1,53 @@
+.about {
+    height: 100vh;
+    background-color: gainsboro;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.about-conatiner {
+    width: 95%;
+    height: 80%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 500;
+    margin: 10px 0;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+
+.about-conatiner-content {
+    width: 80%;
+    margin: 10px auto;
+    font-size: 20px;
+}
+
+
+.about-conatiner-why-me {
+    width: 80%;
+    margin: auto;
+}
+
+.about-conatiner-why-me-ul {
+    list-style: armenian;
+}
+
+.about-conatiner-why-me-li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.about-conatiner-why-me-question {
+    margin: 10px 5px;
+    font-weight: 800;
+}

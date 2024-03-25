@@ -1,0 +1,74 @@
+[
+    {
+        "image": "./images/skills/android.svg",
+        "name": "ANDROID"
+    },
+    {
+        "image": "./images/skills/angular.svg",
+        "name": "ANGULAR"
+    },
+    {
+        "image": "./images/skills/azure.svg",
+        "name": "AZURE"
+    },
+    {
+        "image": "./images/skills/css.svg",
+        "name": "CSS"
+    },
+    {
+        "image": "./images/skills/git.svg",
+        "name": "GIT"
+    },
+    {
+        "image": "./images/skills/hibernate.svg",
+        "name": "HIBERNATE"
+    },
+    {
+        "image": "./images/skills/html.svg",
+        "name": "HTML5"
+    },
+    {
+        "image": "./images/skills/java.svg",
+        "name": "JAVA"
+    },
+    {
+        "image": "./images/skills/javascript.svg",
+        "name": "JAVASCRIPT"
+    },
+    {
+        "image": "./images/skills/linux.svg",
+        "name": "LINUX"
+    },
+    {
+        "image": "./images/skills/mongodb.svg",
+        "name": "MONGODB"
+    },
+    {
+        "image": "./images/skills/mysql.svg",
+        "name": "MYSQL"
+    },
+    {
+        "image": "./images/skills/neo4j.svg",
+        "name": "NEO4J"
+    },
+    {
+        "image": "./images/skills/nodejs.svg",
+        "name": "NODEJS"
+    },
+    {
+        "image": "./images/skills/postgresql.svg",
+        "name": "POSTGRESQL"
+    },
+    {
+        "image": "./images/skills/react.svg",
+        "name": "REACT"
+    },
+    {
+        "image": "./images/skills/spring.svg",
+        "name": "SPRING"
+    },
+    {
+        "image": "./images/skills/typescript.svg",
+        "name": "TYPESCRIPT"
+    }
+]

@@ -1,0 +1,56 @@
+.skills {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: gainsboro;
+    padding: 10px;
+}
+
+.skills-container {
+    width: 95%;
+    height: 80%;
+    padding: 10px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.skills-element {
+    width: 120px;
+    height: 100px;
+    background-color: gainsboro;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 20px 5px;
+    transition: all 0.5s;
+}
+
+.skills-element:hover {
+    cursor: pointer;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.line {
+    height: 1px;
+    background-color: gainsboro;
+    margin: 2px 0;
+}
+
+.skills-element img {
+    width: 80%;
+    height: 75%;
+    object-fit: contain;
+    margin: 2px;
+}
+
+.skills-element p {
+    height: 20px;
+    font-size: 15px;
+}
